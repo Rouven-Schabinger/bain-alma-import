@@ -1,1 +1,110 @@
-<?xml version = "1.0" encoding = "UTF-8"?><mets:mets xmlns:mets="http://www.loc.gov/METS/"><mets:dmdSec ID="ie-dmd-000502511-LLB01" MMSID="990005025110101234" BIBTYPE="Marc21" CATALOGER_LEVEL="00" ORIGINAL_SYSTEM_VERSION=""><mets:mdWrap MDTYPE="MARC"><mets:xmlData><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"><leader>     nam a22     4c 4500</leader><controlfield tag="001">990005025110101234</controlfield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">(UNILI)000502511LLB01</subfield></datafield><datafield tag="STA" ind1=" " ind2=" "><subfield code="a">AKZ-NOOPAC</subfield><subfield code="b">FLFHL</subfield><subfield code="c">Thesisabgabe, gem. Checkliste nachbearbeiten</subfield><subfield code="d">20221128</subfield></datafield><controlfield tag="007">cr |||||||||||</controlfield><controlfield tag="008">220624s2022    lh       m    00    eng d</controlfield><datafield tag="019" ind1=" " ind2=" "><subfield code="a">autom. Import ab Thesisabgabe</subfield><subfield code="5">28.11.2022/BUME</subfield></datafield><datafield tag="024" ind1="7" ind2=" "><subfield code="a">000000984561670</subfield><subfield code="2">CreditsEarnedId</subfield></datafield><datafield tag="040" ind1=" " ind2=" "><subfield code="a">LI-VaLIL FLFHL</subfield><subfield code="b">ger</subfield><subfield code="e">rda</subfield></datafield><datafield tag="072" ind1=" " ind2="7"><subfield code="a">at</subfield><subfield code="2">FL</subfield></datafield><datafield tag="100" ind1="1" ind2=" "><subfield code="a">Villaseñor, Roberto</subfield><subfield code="e">Verfasser</subfield><subfield code="4">aut</subfield></datafield><datafield tag="245" ind1="1" ind2="0"><subfield code="a">Botanical Greenhouse</subfield><subfield code="c">Roberto Villaseñor</subfield></datafield><datafield tag="264" ind1=" " ind2="1"><subfield code="a">Vaduz</subfield><subfield code="c">2022</subfield></datafield><datafield tag="300" ind1=" " ind2=" "><subfield code="a">1 Online-Ressource (99 Seiten)</subfield></datafield><datafield tag="336" ind1=" " ind2=" "><subfield code="a">Text</subfield><subfield code="b">txt</subfield><subfield code="2">rdacontent</subfield></datafield><datafield tag="337" ind1=" " ind2=" "><subfield code="a">Computermedien</subfield><subfield code="b">c</subfield><subfield code="2">rdamedia</subfield></datafield><datafield tag="338" ind1=" " ind2=" "><subfield code="a">Online-Ressource</subfield><subfield code="b">cr</subfield><subfield code="2">rdacarrier</subfield></datafield><datafield tag="502" ind1=" " ind2=" "><subfield code="b">Masterarbeit</subfield><subfield code="c">Universität Liechtenstein, Architektur, Architecture</subfield><subfield code="d">2022</subfield></datafield><datafield tag="700" ind1="1" ind2=" "><subfield code="a">Schwarz, Dietrich</subfield><subfield code="e">Akademischer Betreuer</subfield><subfield code="4">dgs</subfield></datafield><datafield tag="700" ind1="1" ind2=" "><subfield code="a">Kloeg, David</subfield><subfield code="e">Akademischer Betreuer</subfield><subfield code="4">dgs</subfield></datafield><datafield tag="700" ind1="1" ind2=" "><subfield code="a">Rist-Stadelmann, Carmen</subfield><subfield code="e">Akademischer Betreuer</subfield><subfield code="4">dgs</subfield></datafield><datafield tag="909" ind1="X" ind2=" "><subfield code="a">lb</subfield></datafield><datafield tag="909" ind1="X" ind2=" "><subfield code="a">lv</subfield></datafield><datafield tag="655" ind1=" " ind2="7"><subfield code="a">Hochschulschrift</subfield><subfield code="2">gnd-content</subfield></datafield><datafield tag="856" ind1=" " ind2=" "><subfield code="u">https://publikationen.uni.li/viewer/image/tmpid_08378/1/</subfield><subfield code="z">Online verfügbar</subfield></datafield><datafield tag="888" ind1="X" ind2="Y"><subfield code="a">tmpid_08378</subfield></datafield></record></mets:xmlData></mets:mdWrap></mets:dmdSec></mets:mets>
+<?xml version = "1.0" encoding = "UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/">
+    <mets:dmdSec ID="ie-dmd-000502511-LLB01" MMSID="990005025110101234" BIBTYPE="Marc21" CATALOGER_LEVEL="00" ORIGINAL_SYSTEM_VERSION="">
+        <mets:mdWrap MDTYPE="MARC">
+            <mets:xmlData>
+                <record xmlns="http://www.loc.gov/MARC21/slim"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+                    <leader>     nam a22     4c 4500</leader>
+                    <controlfield tag="001">990005025110101234</controlfield>
+                    <datafield tag="035" ind1=" " ind2=" ">
+                        <subfield code="a">(UNILI)000502511LLB01</subfield>
+                    </datafield>
+                    <datafield tag="STA" ind1=" " ind2=" ">
+                        <subfield code="a">AKZ-NOOPAC</subfield>
+                        <subfield code="b">FLFHL</subfield>
+                        <subfield code="c">Thesisabgabe, gem. Checkliste nachbearbeiten</subfield>
+                        <subfield code="d">20221128</subfield>
+                    </datafield>
+                    <controlfield tag="007">cr |||||||||||</controlfield>
+                    <controlfield tag="008">220624s2022    lh       m    00    eng d</controlfield>
+                    <datafield tag="019" ind1=" " ind2=" ">
+                        <subfield code="a">autom. Import ab Thesisabgabe</subfield>
+                        <subfield code="5">28.11.2022/BUME</subfield>
+                    </datafield>
+                    <datafield tag="024" ind1="7" ind2=" ">
+                        <subfield code="a">000000984561670</subfield>
+                        <subfield code="2">CreditsEarnedId</subfield>
+                    </datafield>
+                    <datafield tag="040" ind1=" " ind2=" ">
+                        <subfield code="a">LI-VaLIL FLFHL</subfield>
+                        <subfield code="b">ger</subfield>
+                        <subfield code="e">rda</subfield>
+                    </datafield>
+                    <datafield tag="072" ind1=" " ind2="7">
+                        <subfield code="a">at</subfield>
+                        <subfield code="2">FL</subfield>
+                    </datafield>
+                    <datafield tag="100" ind1="1" ind2=" ">
+                        <subfield code="a">Villaseñor, Roberto</subfield>
+                        <subfield code="e">Verfasser</subfield>
+                        <subfield code="4">aut</subfield>
+                    </datafield>
+                    <datafield tag="245" ind1="1" ind2="0">
+                        <subfield code="a">Botanical Greenhouse</subfield>
+                        <subfield code="c">Roberto Villaseñor</subfield>
+                    </datafield>
+                    <datafield tag="264" ind1=" " ind2="1">
+                        <subfield code="a">Vaduz</subfield>
+                        <subfield code="c">2022</subfield>
+                    </datafield>
+                    <datafield tag="300" ind1=" " ind2=" ">
+                        <subfield code="a">1 Online-Ressource (99 Seiten)</subfield>
+                    </datafield>
+                    <datafield tag="336" ind1=" " ind2=" ">
+                        <subfield code="a">Text</subfield>
+                        <subfield code="b">txt</subfield>
+                        <subfield code="2">rdacontent</subfield>
+                    </datafield>
+                    <datafield tag="337" ind1=" " ind2=" ">
+                        <subfield code="a">Computermedien</subfield>
+                        <subfield code="b">c</subfield>
+                        <subfield code="2">rdamedia</subfield>
+                    </datafield>
+                    <datafield tag="338" ind1=" " ind2=" ">
+                        <subfield code="a">Online-Ressource</subfield>
+                        <subfield code="b">cr</subfield>
+                        <subfield code="2">rdacarrier</subfield>
+                    </datafield>
+                    <datafield tag="502" ind1=" " ind2=" ">
+                        <subfield code="b">Masterarbeit</subfield>
+                        <subfield code="c">Universität Liechtenstein, Architektur, Architecture</subfield>
+                        <subfield code="d">2022</subfield>
+                    </datafield>
+                    <datafield tag="700" ind1="1" ind2=" ">
+                        <subfield code="a">Schwarz, Dietrich</subfield>
+                        <subfield code="e">Akademischer Betreuer</subfield>
+                        <subfield code="4">dgs</subfield>
+                    </datafield>
+                    <datafield tag="700" ind1="1" ind2=" ">
+                        <subfield code="a">Kloeg, David</subfield>
+                        <subfield code="e">Akademischer Betreuer</subfield>
+                        <subfield code="4">dgs</subfield>
+                    </datafield>
+                    <datafield tag="700" ind1="1" ind2=" ">
+                        <subfield code="a">Rist-Stadelmann, Carmen</subfield>
+                        <subfield code="e">Akademischer Betreuer</subfield>
+                        <subfield code="4">dgs</subfield>
+                    </datafield>
+                    <datafield tag="909" ind1="X" ind2=" ">
+                        <subfield code="a">lb</subfield>
+                    </datafield>
+                    <datafield tag="909" ind1="X" ind2=" ">
+                        <subfield code="a">lv</subfield>
+                    </datafield>
+                    <datafield tag="655" ind1=" " ind2="7">
+                        <subfield code="a">Hochschulschrift</subfield>
+                        <subfield code="2">gnd-content</subfield>
+                    </datafield>
+                    <datafield tag="856" ind1=" " ind2=" ">
+                        <subfield code="u">https://publikationen.uni.li/viewer/image/tmpid_08378/1/</subfield>
+                        <subfield code="z">Online verfügbar</subfield>
+                    </datafield>
+                    <datafield tag="888" ind1="X" ind2="Y">
+                        <subfield code="a">tmpid_08378</subfield>
+                    </datafield>
+                </record>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+</mets:mets>
