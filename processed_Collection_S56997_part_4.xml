@@ -1,0 +1,878 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection xmlns="http://www.loc.gov/MARC21/slim"><record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN049348</controlfield>
+    <controlfield tag="008">221007s2022||||||||||||||||||||||||hrv|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9789533139098</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">hrv</subfield>
+      <subfield code="h">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Beaty, Andrea</subfield>
+      <subfield code="e">(Verfasser)</subfield>
+      <subfield code="4">aut</subfield>
+      <subfield code="0">(DE-588)138926204</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="0">
+      <subfield code="a">Ada Twist and the Perilous Pants</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Ada Vijugica i opasne hlače /</subfield>
+      <subfield code="c">Napisala: Andrea Beaty ; Ilustrirao David Roberts</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Zagreb :</subfield>
+      <subfield code="b">Profil,</subfield>
+      <subfield code="c">2022</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">133 Seiten :</subfield>
+      <subfield code="b">Ill. ;</subfield>
+      <subfield code="c">21 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Mädchen</subfield>
+      <subfield code="0">(CH-001273-X)A82000</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Entwicklung</subfield>
+      <subfield code="0">(CH-001273-X)A81879</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Roberts, David</subfield>
+      <subfield code="d">1970-</subfield>
+      <subfield code="e">(Illustrator)</subfield>
+      <subfield code="4">ill</subfield>
+      <subfield code="0">(DE-588)1019023279</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD105196660</subfield>
+                 <subfield code="j">ZBS KJ BM/BEAT</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 30</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NS205709</controlfield>
+    <controlfield tag="008">170826s2014||||||||||||||||||||||||hrv|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9789537685584</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">fu</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">Bibliomedia Solothurn</subfield>
+      <subfield code="c">AlCoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">hrv</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">SIEG</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="a">Siegner, Ingo</subfield>
+      <subfield code="d">1965-</subfield>
+      <subfield code="0">(DE-588)124189156</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="4">
+      <subfield code="a">Der kleine Drache Kokosnuss und der Schatz im Dschungel</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Zmajic Kokos i blago u dzungli /</subfield>
+      <subfield code="c">Ingo Siegner</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2=" ">
+      <subfield code="a">[O.O.] :</subfield>
+      <subfield code="b">Planet Zoe,</subfield>
+      <subfield code="c">2014</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Fabelwesen</subfield>
+      <subfield code="0">(CH-001273-X)A81883</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Abenteuer</subfield>
+      <subfield code="0">(CH-001273-X)A81858</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Phantasie</subfield>
+      <subfield code="0">(CH-001273-X)A82007</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104166615</subfield>
+                 <subfield code="j">ZBS KJ BM/SIEG</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="995" ind1=" " ind2=" ">
+      <subfield code="a">kroa</subfield>
+    </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 30</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NS188546</controlfield>
+    <controlfield tag="008">170826s2009||||||||||||||||||||||||hrv|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9789533001265</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">fu</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">Bibliomedia Solothurn</subfield>
+      <subfield code="c">AlCoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">hrv</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PORT</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="a">Porter, Eleanor H.</subfield>
+      <subfield code="d">1868-1920</subfield>
+      <subfield code="0">(DE-588)107021765</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="0">
+      <subfield code="a">Pollyanna</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Pollyanna /</subfield>
+      <subfield code="c">Eleanor H. Porter</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2=" ">
+      <subfield code="a">Zagreb :</subfield>
+      <subfield code="b">EPH Liber,</subfield>
+      <subfield code="c">2009</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Klassiker</subfield>
+      <subfield code="0">(CH-001273-X)A81914</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Mädchen</subfield>
+      <subfield code="0">(CH-001273-X)A82000</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD103596521</subfield>
+                 <subfield code="j">ZBS KJ BM/PORT</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="995" ind1=" " ind2=" ">
+      <subfield code="a">kroa</subfield>
+    </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 30</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN023909</controlfield>
+    <controlfield tag="008">200306s2019||||||||||||||||||||||||tur|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9786058032781</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">WOS</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">alcoda2</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">tur</subfield>
+      <subfield code="h">ita</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Gobbetti, Claudio </subfield>
+      <subfield code="0">(CH-001273-X)A215504</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Öykü ağaci /</subfield>
+      <subfield code="c">Claudio Gobbetti, Diyana Nikolova</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Istanbul :</subfield>
+      <subfield code="b">Arden Yayincilik,</subfield>
+      <subfield code="c">2019</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">38 ungezählte Seiten :</subfield>
+      <subfield code="b">Ill.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Lesung</subfield>
+      <subfield code="2">bm</subfield>
+      <subfield code="0">(CH-001273-X)A82431</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Liebe</subfield>
+      <subfield code="2">bm</subfield>
+      <subfield code="0">(CH-001273-X)A81952</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Nikolova, Diyana</subfield>
+      <subfield code="0">(CH-001273-X)A215505</subfield>
+    </datafield>
+    <datafield tag="899" ind1=" " ind2=" ">
+      <subfield code="a">41aga+XcmlL</subfield>
+      <subfield code="b">03</subfield>
+      <subfield code="c">6058032784</subfield>
+      <subfield code="d">.jpg</subfield>
+      <subfield code="n">575946</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104685688</subfield>
+                 <subfield code="j">ZBS KJ BM/GOBB</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NS213588</controlfield>
+    <controlfield tag="008">170826s2016||||||||||||||||||||||||tur|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9786059722094</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">fu</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">alcoda2</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">Bibliomedia Solothurn</subfield>
+      <subfield code="c">AlCoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">tur</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">CALI</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="a">Caliskan, Incilâ</subfield>
+      <subfield code="0">(CH-001273-X)A72620</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Altin saçli deniz gözlü çocuk /</subfield>
+      <subfield code="c">Incilâ Caliskan ; Renkli Kafalar</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2=" ">
+      <subfield code="a">Istanbul :</subfield>
+      <subfield code="b">Düsizi,</subfield>
+      <subfield code="c">2016</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Biografisches</subfield>
+      <subfield code="0">(CH-001273-X)A81874</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Historisches</subfield>
+      <subfield code="0">(CH-001273-X)A81897</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Asien Türkei</subfield>
+      <subfield code="0">(CH-001273-X)A81940</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2=" ">
+      <subfield code="a">Kafalar, Renkli</subfield>
+      <subfield code="0">(CH-001273-X)A72619</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104254838</subfield>
+                 <subfield code="j">ZBS KJ BM/CALI</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="995" ind1=" " ind2=" ">
+      <subfield code="a">türk</subfield>
+    </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NS191987</controlfield>
+    <controlfield tag="008">170826s2012||||||||||||||||||||||||tur|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9789750822438</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">fu</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">WebOPAC</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">alcoda2</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">Bibliomedia Solothurn</subfield>
+      <subfield code="c">AlCoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">tur</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">ADAL</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="a">Adalı, Bilgin</subfield>
+      <subfield code="d">1944-2012</subfield>
+      <subfield code="0">(DE-588)133563839</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Benekli /</subfield>
+      <subfield code="c">Bilgin Adali ; Buket Topakglu Gencer</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2=" ">
+      <subfield code="a">Istanbul :</subfield>
+      <subfield code="b">Yapi Kredi Yayinlari,</subfield>
+      <subfield code="c">2012</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Tier Hund</subfield>
+      <subfield code="0">(CH-001273-X)A82290</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Familie</subfield>
+      <subfield code="0">(CH-001273-X)A81884</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2=" ">
+      <subfield code="a">Gencer, Buket Topakglu</subfield>
+      <subfield code="0">(CH-001273-X)A65701</subfield>
+    </datafield>
+    <datafield tag="899" ind1=" " ind2=" ">
+      <subfield code="a">517460g8xcL</subfield>
+      <subfield code="b">08</subfield>
+      <subfield code="c">9750822439</subfield>
+      <subfield code="d">.jpg</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD103635661</subfield>
+                 <subfield code="j">ZBS KJ BM/ADAL</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="995" ind1=" " ind2=" ">
+      <subfield code="a">türk</subfield>
+    </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN004411</controlfield>
+    <controlfield tag="008">180129s2017||||||||||||||||||||||||tur|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9786051920412</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">SF</subfield>
+      <subfield code="b">WebOPAC</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">tur</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Maclear, Kyo</subfield>
+      <subfield code="0">(DE-588)152965602</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Degisimsever Bay Flux /</subfield>
+      <subfield code="c">Kyo Maclear</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Istanbul :</subfield>
+      <subfield code="b">Hep Kitap,</subfield>
+      <subfield code="c">2017</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Familie</subfield>
+      <subfield code="0">(CH-001273-X)A81884</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Kindheit</subfield>
+      <subfield code="0">(CH-001273-X)A81913</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="899" ind1=" " ind2=" ">
+      <subfield code="a">51b-RUgy6JL</subfield>
+      <subfield code="b">08</subfield>
+      <subfield code="c">6051920412</subfield>
+      <subfield code="d">.jpg</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD10456896X</subfield>
+                 <subfield code="j">ZBS KJ BM/MACL</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN020286</controlfield>
+    <controlfield tag="008">191018s2019||||||||||||||||||||||||tur|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9789750844690</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">tur</subfield>
+      <subfield code="h">ger</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Janisch, Heinz</subfield>
+      <subfield code="d">1960-</subfield>
+      <subfield code="0">(DE-588)119466031</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="0">
+      <subfield code="a">Ich hab ein kleines Problem, sagte der Bär</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Küçük bir sorunum var dedi ayi /</subfield>
+      <subfield code="c">Heinz Janisch; Silke Leffler</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Istanbul :</subfield>
+      <subfield code="b">Yapi Kredi Yayinlari,</subfield>
+      <subfield code="c">2019</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">[30] Seiten :</subfield>
+      <subfield code="b">Ill.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Tier Bär</subfield>
+      <subfield code="0">(CH-001273-X)A82221</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Freundschaft</subfield>
+      <subfield code="0">(CH-001273-X)A81888</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Leffler, Silke</subfield>
+      <subfield code="d">1970-</subfield>
+      <subfield code="e">(Illustrator)</subfield>
+      <subfield code="0">(DE-588)13837614X</subfield>
+    </datafield>
+    <datafield tag="899" ind1=" " ind2=" ">
+      <subfield code="a">41KgUL-4CBL</subfield>
+      <subfield code="b">03</subfield>
+      <subfield code="c">9750844696</subfield>
+      <subfield code="d">.jpg</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104679566</subfield>
+                 <subfield code="j">ZBS KJ BM/JANI</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN035894</controlfield>
+    <controlfield tag="008">210608s2020||||||||||||||||||||||||tur|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9786254051814</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">tur</subfield>
+      <subfield code="h">ger</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Welk, Sarah</subfield>
+      <subfield code="e">(Verfasser)</subfield>
+      <subfield code="4">aut</subfield>
+      <subfield code="0">(DE-588)1206437227</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="0">
+      <subfield code="a">Ziemlich beste Schwestern - quatsch mıt sosse</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Dev pasta /</subfield>
+      <subfield code="c">Sarah Welk</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Istanbul :</subfield>
+      <subfield code="b">Türkiye is Bankasi Kültür Yayinlari,</subfield>
+      <subfield code="c">2020</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">122 Seiten :</subfield>
+      <subfield code="b">Ill. ;</subfield>
+      <subfield code="c">21 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="490" ind1=" " ind2=" ">
+      <subfield code="a">En iyi kiz kardeşler</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Mädchen</subfield>
+      <subfield code="0">(CH-001273-X)A82000</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Lustiges</subfield>
+      <subfield code="0">(CH-001273-X)A81999</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">En iyi kiz kardeşler</subfield>
+      <subfield code="0">(CH-001273-X)A227197</subfield>
+    </datafield>
+    <datafield tag="899" ind1=" " ind2=" ">
+      <subfield code="n">905320</subfield>
+      <subfield code="a">41q+-WLBmmL</subfield>
+      <subfield code="b">03</subfield>
+      <subfield code="c">6254051818</subfield>
+      <subfield code="d">.jpg</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD105091596</subfield>
+                 <subfield code="j">ZBS KJ BM/WELK</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 30</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN041315</controlfield>
+    <controlfield tag="008">211221s2021||||||||||||||||||||||||tur|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9789750851292</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">alcoda2</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">tur</subfield>
+      <subfield code="h">fre</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Leprince de Beaumont, Jeanne-Marie</subfield>
+      <subfield code="d">1711-1780</subfield>
+      <subfield code="e">(Verfasser)</subfield>
+      <subfield code="4">aut</subfield>
+      <subfield code="0">(DE-588)119481006</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="3">
+      <subfield code="a">La Belle et la Bète</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Güzel ve Çirkin /</subfield>
+      <subfield code="c">Jeanne-Marie Leprince de Beaumont ; resimleyen Meryem Tanrikulu</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Istanbul :</subfield>
+      <subfield code="b">Yapı Kredı Yayınları,</subfield>
+      <subfield code="c">2021</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">59 Seiten :</subfield>
+      <subfield code="b">Ill. ;</subfield>
+      <subfield code="c">18 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="490" ind1=" " ind2=" ">
+      <subfield code="a">Klasik dünya masallari</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Klassiker</subfield>
+      <subfield code="0">(CH-001273-X)A81914</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Märchen</subfield>
+      <subfield code="0">(CH-001273-X)A82001</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Tanrikulu, Meryem </subfield>
+      <subfield code="e">(Illustrator)</subfield>
+      <subfield code="4">ill</subfield>
+      <subfield code="0">(CH-001273-X)A231538</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Klasik dünya masallari</subfield>
+      <subfield code="0">(CH-001273-X)A231539</subfield>
+    </datafield>
+    <datafield tag="899" ind1=" " ind2=" ">
+      <subfield code="n">1002785</subfield>
+      <subfield code="a">519XBGs7IdL</subfield>
+      <subfield code="b">03</subfield>
+      <subfield code="c">9750851293</subfield>
+      <subfield code="d">.jpg</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD105019938</subfield>
+                 <subfield code="j">ZBS KJ BM/LEPR</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 30</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  </collection>

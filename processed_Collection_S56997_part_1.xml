@@ -1,0 +1,937 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection xmlns="http://www.loc.gov/MARC21/slim"><record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NS214760</controlfield>
+    <controlfield tag="008">170826s2016||||||||||||||||||||||||por|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9789722128124</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">fu</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">WebOPAC</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">alcoda2</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">Bibliomedia Solothurn</subfield>
+      <subfield code="c">AlCoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">por</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">DUAR</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="a">Mangas, Francisco Duarte</subfield>
+      <subfield code="d">1960-</subfield>
+      <subfield code="0">(DE-588)174004206</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Silvio, guardador de ventos /</subfield>
+      <subfield code="c">Francisco Duarte Mangas ; Madalena Moniz</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2=" ">
+      <subfield code="a">Lisboa :</subfield>
+      <subfield code="b">Editorial Caminho,</subfield>
+      <subfield code="c">2016</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Kindheit</subfield>
+      <subfield code="0">(CH-001273-X)A81913</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Phantasie</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2=" ">
+      <subfield code="a">Moniz, Madalena</subfield>
+      <subfield code="0">(CH-001273-X)A69189</subfield>
+    </datafield>
+    <datafield tag="899" ind1=" " ind2=" ">
+      <subfield code="a">618iWXzf3mL</subfield>
+      <subfield code="b">01</subfield>
+      <subfield code="c">9722128124</subfield>
+      <subfield code="d">.jpg</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104375883</subfield>
+                 <subfield code="j">ZBS KJ BM/DUAR</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="995" ind1=" " ind2=" ">
+      <subfield code="a">port</subfield>
+    </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN014000</controlfield>
+    <controlfield tag="008">181228s2016||||||||||||||||||||||||por|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9789898831446</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">alcoda2</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">por</subfield>
+      <subfield code="h">eng</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Bee, William</subfield>
+      <subfield code="0">(CH-001273-X)A141718</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="0">
+      <subfield code="a">Stanley the Builder</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Óscar, o Construtor</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Amadora :</subfield>
+      <subfield code="b">Booksmile,</subfield>
+      <subfield code="c">2016</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">[28] Seitem :</subfield>
+      <subfield code="b">Ill.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Tier Hamster</subfield>
+      <subfield code="2">bm</subfield>
+      <subfield code="0">(CH-001273-X)A82188</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Freundschaft</subfield>
+      <subfield code="2">bm</subfield>
+      <subfield code="0">(CH-001273-X)A81888</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Entwicklung</subfield>
+      <subfield code="2">bm</subfield>
+      <subfield code="0">(CH-001273-X)A81879</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104663517</subfield>
+                 <subfield code="j">ZBS KJ BM/BEE</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN021049</controlfield>
+    <controlfield tag="008">191122s2018||||||||||||||||||||||||por|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9788574126029</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">II</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">por</subfield>
+      <subfield code="h">dut</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Vries, Anke de</subfield>
+      <subfield code="d">1936-</subfield>
+      <subfield code="0">(DE-588)119047845</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="0">
+      <subfield code="a">Antonia</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Antonia /</subfield>
+      <subfield code="c">Anke de Vries; ilustrações de Piet Grobler</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Sao Paulo :</subfield>
+      <subfield code="b">Brinque-Book,</subfield>
+      <subfield code="c">2018</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">32 Seiten :</subfield>
+      <subfield code="b">Ill.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Tier Vogel</subfield>
+      <subfield code="0">(CH-001273-X)A82193</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Freundschaft</subfield>
+      <subfield code="0">(CH-001273-X)A81888</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Ausgrenzung</subfield>
+      <subfield code="0">(CH-001273-X)A82015</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Grobler, Piet</subfield>
+      <subfield code="d">1959-</subfield>
+      <subfield code="e">(Illustrator)</subfield>
+      <subfield code="0">(DE-588)132361868</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104626906</subfield>
+                 <subfield code="j">ZBS KJ BM/VRIE</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN025825</controlfield>
+    <controlfield tag="008">200608s2020||||||||||||||||||||||||srp|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9788652136520</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">srp</subfield>
+      <subfield code="h">mac</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Kosturanov, Vane</subfield>
+      <subfield code="d">1979-</subfield>
+      <subfield code="0">(DE-588)1186942460</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="0">
+      <subfield code="a">Девојче и мече</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Devojčica i meda /</subfield>
+      <subfield code="c">Vane Kosturanov</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Beograd :</subfield>
+      <subfield code="b">Laguna,</subfield>
+      <subfield code="c">2020</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 Band (nicht paginiert) :</subfield>
+      <subfield code="b">Ill.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="490" ind1=" " ind2=" ">
+      <subfield code="a">Mala Laguna</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">kyrillisch</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Mädchen</subfield>
+      <subfield code="0">(CH-001273-X)A82000</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Tier Bär</subfield>
+      <subfield code="0">(CH-001273-X)A82221</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Freundschaft</subfield>
+      <subfield code="0">(CH-001273-X)A81888</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Entwicklung</subfield>
+      <subfield code="0">(CH-001273-X)A81879</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Mala Laguna</subfield>
+      <subfield code="0">(CH-001273-X)A208816</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104702446</subfield>
+                 <subfield code="j">ZBS KJ BM/KOST</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN030759</controlfield>
+    <controlfield tag="008">201210s2019||||||||||||||||||||||||srp|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9788660356248</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">II</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">srp</subfield>
+      <subfield code="h">fre</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Metzmeyer, Catherine</subfield>
+      <subfield code="d">1954-</subfield>
+      <subfield code="e">(Verfasser)</subfield>
+      <subfield code="4">aut</subfield>
+      <subfield code="0">(DE-588)1147586853</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="3">
+      <subfield code="a">La bande des matous</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Družina uličnih mačora /</subfield>
+      <subfield code="c">Ketrin Mecmejer ; Gregor Mabir</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Zemun :</subfield>
+      <subfield code="b">Publik Praktikum,</subfield>
+      <subfield code="c">2019</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 Band (nicht paginiert) :</subfield>
+      <subfield code="b">Ill. ;</subfield>
+      <subfield code="c">28 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">kyrillisch</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Tier Katze</subfield>
+      <subfield code="0">(CH-001273-X)A82174</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Gefühl Mut</subfield>
+      <subfield code="2">bm</subfield>
+      <subfield code="0">(CH-001273-X)A82003</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Freundschaft</subfield>
+      <subfield code="0">(CH-001273-X)A81888</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Mabire, Gregoire</subfield>
+      <subfield code="d">1975-</subfield>
+      <subfield code="e">(Illustrator)</subfield>
+      <subfield code="4">ill</subfield>
+      <subfield code="0">(DE-588)1073209024</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104698667</subfield>
+                 <subfield code="j">ZBS KJ BM/METZ</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN018345</controlfield>
+    <controlfield tag="008">190719s2019||||||||||||||||||||||||srp|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9788652906062</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">srp</subfield>
+      <subfield code="h">swe</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Wieslander, Jujja</subfield>
+      <subfield code="d">1944-</subfield>
+      <subfield code="0">(DE-588)115632425</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="0">
+      <subfield code="a">Mamma Mu gungar</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Mama Mu se ljulja /</subfield>
+      <subfield code="c">Jujja &amp; Tomas Wieslander; illustrations Sven Nordqvist</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Beograd :</subfield>
+      <subfield code="b">Kreativni centar,</subfield>
+      <subfield code="c">2019</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 Band (nicht paginiert) :</subfield>
+      <subfield code="b">Ill. ;</subfield>
+      <subfield code="c">30 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">kyrillisch</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Tier Kuh</subfield>
+      <subfield code="0">(CH-001273-X)A82226</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Lustiges</subfield>
+      <subfield code="0">(CH-001273-X)A81999</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Wieslander, Tomas</subfield>
+      <subfield code="d">1940-1996</subfield>
+      <subfield code="0">(DE-588)11357844X</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Nordqvist, Sven</subfield>
+      <subfield code="d">1946-</subfield>
+      <subfield code="e">(Illustrator)</subfield>
+      <subfield code="0">(DE-588)115632468</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104614004</subfield>
+                 <subfield code="j">ZBS KJ BM/WIES</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN051087</controlfield>
+    <controlfield tag="008">221207s2022||||||||||||||||||||||||srp|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9788660880712</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">srp</subfield>
+      <subfield code="h">ger</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Reitmeyer, Andrea</subfield>
+      <subfield code="d">1979-</subfield>
+      <subfield code="e">(Verfasser)</subfield>
+      <subfield code="4">aut</subfield>
+      <subfield code="0">(DE-588)1017408890</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="0">
+      <subfield code="a">Karl Kunterbunt : ein Chamäleon zeigt Farbe</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Kameleon Simeon voli svoje boje /</subfield>
+      <subfield code="c">Andrea Rajtmajer</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Čačak :</subfield>
+      <subfield code="b">Pčelica,</subfield>
+      <subfield code="c">2022</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 Band (nicht paginiert) :</subfield>
+      <subfield code="b">Ill. ;</subfield>
+      <subfield code="c">26 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">kyrillisch</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Tier Chamäleon</subfield>
+      <subfield code="0">(CH-001273-X)A82190</subfield>
+      <subfield code="2">bm</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD105172098</subfield>
+                 <subfield code="j">ZBS KJ BM/REIT</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NN013306</controlfield>
+    <controlfield tag="008">181126s2018||||||||||||||||||||||||srp|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9788652129638</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda2</subfield>
+      <subfield code="b">DV</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">srp</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Preradović, Svetlana</subfield>
+      <subfield code="d">1970-</subfield>
+      <subfield code="0">(DE-588)1224916999</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Princ Nećko /</subfield>
+      <subfield code="c">Svetlana Preradović; Nemanja Ristić</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Beograd :</subfield>
+      <subfield code="b">Laguna,</subfield>
+      <subfield code="c">2018</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">35 Seiten :</subfield>
+      <subfield code="b">Ill. ;</subfield>
+      <subfield code="c">19 x 19 cm</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">kirillisch</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Kindheit</subfield>
+      <subfield code="2">bm</subfield>
+      <subfield code="0">(CH-001273-X)A81913</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Ristić, Nemanja</subfield>
+      <subfield code="d">1981-</subfield>
+      <subfield code="e">(Illustrator)</subfield>
+      <subfield code="0">(DE-588)1224917197</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104655372</subfield>
+                 <subfield code="j">ZBS KJ BM/PRER</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NS167680</controlfield>
+    <controlfield tag="008">170826s2007||||||||||||||||||||||||srp|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9788674366653</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">fu</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">alcoda2</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">Bibliomedia Solothurn</subfield>
+      <subfield code="c">AlCoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">srp</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">LAMB</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="a">Lamblin, Christian</subfield>
+      <subfield code="0">(CH-001273-X)A97812</subfield>
+    </datafield>
+    <datafield tag="240" ind1=" " ind2="0">
+      <subfield code="a">Jules, ce n'est pas à toi!</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Joco, to nije tvoje! /</subfield>
+      <subfield code="c">Christian Lamblin</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2=" ">
+      <subfield code="a">Beograd :</subfield>
+      <subfield code="b">Laguna,</subfield>
+      <subfield code="c">2007</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Kindheit</subfield>
+      <subfield code="0">(CH-001273-X)A81913</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Familie</subfield>
+      <subfield code="0">(CH-001273-X)A81884</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Freundschaft</subfield>
+      <subfield code="0">(CH-001273-X)A81888</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD10271766X</subfield>
+                 <subfield code="j">ZBS KJ BM/LAMB</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="995" ind1=" " ind2=" ">
+      <subfield code="a">serb</subfield>
+    </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001">NS218239</controlfield>
+    <controlfield tag="008">170826s2017||||||||||||||||||||||||srp|d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9783903119314</subfield>
+    </datafield>
+    <datafield tag="039" ind1=" " ind2=" ">
+      <subfield code="b">fu</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">II</subfield>
+      <subfield code="b">alcoda2</subfield>
+      <subfield code="b">alcoda</subfield>
+      <subfield code="b">II</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">Bibliomedia Solothurn</subfield>
+      <subfield code="c">AlCoda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">srp</subfield>
+      <subfield code="a">ger</subfield>
+      <subfield code="a">hrv</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">HULA</subfield>
+    </datafield>
+    <datafield tag="100" ind1=" " ind2=" ">
+      <subfield code="a">Hula, Saskia</subfield>
+      <subfield code="d">1966-</subfield>
+      <subfield code="0">(DE-588)129716103</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Kralj Debeljuca i rupa na čarapi = König Kugelrund und das Loch im Socken /</subfield>
+      <subfield code="c">Saskia Hula ; Katharina Sieg</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2=" ">
+      <subfield code="a">Wien :</subfield>
+      <subfield code="b">Papperlapapp,</subfield>
+      <subfield code="c">2017</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">39 Seiten :</subfield>
+      <subfield code="b">Ill.</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">Text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Band</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+      <subfield code="9">NetBiblio</subfield>
+    </datafield>
+    <datafield tag="490" ind1=" " ind2=" ">
+      <subfield code="a">Papperlapapp ;</subfield>
+      <subfield code="v">Nr.5</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">"Geschichten, Gedankenspiele, Mitmachseiten und vieles mehr zum Thema Langeweile"</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Bilderbuch</subfield>
+      <subfield code="0">(CH-001273-X)A81873</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Interaktiv</subfield>
+      <subfield code="0">(CH-001273-X)A82093</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Tier</subfield>
+      <subfield code="0">(CH-001273-X)A82029</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Phantasie</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Erstes Lesealter</subfield>
+      <subfield code="2">bm</subfield>
+      <subfield code="0">(CH-001273-X)A81881</subfield>
+    </datafield>
+    <datafield tag="696" ind1=" " ind2=" ">
+      <subfield code="a">Zweisprachig</subfield>
+      <subfield code="0">(CH-001273-X)A246540</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2=" ">
+      <subfield code="a">Sieg, Katharina</subfield>
+      <subfield code="d">1982-</subfield>
+      <subfield code="0">(DE-588)13852503X</subfield>
+    </datafield>
+    <datafield tag="830" ind1=" " ind2="0">
+      <subfield code="a">Papperlapapp</subfield>
+      <subfield code="v">5</subfield>
+      <subfield code="0">(CH-001273-X)A254502</subfield>
+    </datafield>
+    <datafield tag="954" ind1=" " ind2=" ">
+                 <subfield code="a">BCD104536409</subfield>
+                 <subfield code="j">ZBS KJ BM/HULA</subfield>
+                 <subfield code="9">LOCAL</subfield>
+                 </datafield>
+    <datafield tag="995" ind1=" " ind2=" ">
+      <subfield code="a">serb-dt</subfield>
+    </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="1">MediaType1Code: 10</subfield>
+      <subfield code="1">MediaType2Code: 32</subfield>
+      <subfield code="1">AgeCode: 83</subfield>
+      <subfield code="1">BibliomediaCollectionNr: S56997</subfield>
+    </datafield>
+  </record>
+  </collection>
